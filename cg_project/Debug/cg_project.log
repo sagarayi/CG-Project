@@ -1,0 +1,41 @@
+﻿Build started 24/05/2015 1:11:52 PM.
+     1>Project "D:\cg_project\cg_project\cg_project\cg_project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /D _CRT_SECURE_NO_DEPRECATE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\cg_project\cg_project\cg_project\main.cpp(54): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\cg_project\cg_project\cg_project\main.cpp(55): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\cg_project\cg_project\cg_project\main.cpp(56): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\cg_project\cg_project\cg_project\main.cpp(57): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\cg_project\cg_project\cg_project\main.cpp(64): warning C4101: 'i' : unreferenced local variable
+     1>d:\cg_project\cg_project\cg_project\main.cpp(89): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\cg_project\cg_project\cg_project\main.cpp(90): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\cg_project\cg_project\cg_project\main.cpp(91): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\cg_project\cg_project\cg_project\main.cpp(92): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\cg_project\cg_project\cg_project\main.cpp(95): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\cg_project\cg_project\cg_project\main.cpp(96): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\cg_project\cg_project\cg_project\main.cpp(97): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\cg_project\cg_project\cg_project\main.cpp(98): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\cg_project\cg_project\cg_project\main.cpp(109): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\cg_project\cg_project\cg_project\main.cpp(126): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\cg_project\cg_project\cg_project\main.cpp(127): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\cg_project\cg_project\cg_project\main.cpp(128): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\cg_project\cg_project\cg_project\main.cpp(129): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\cg_project\cg_project\cg_project\main.cpp(135): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\cg_project\cg_project\cg_project\main.cpp(136): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\cg_project\cg_project\cg_project\main.cpp(137): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\cg_project\cg_project\cg_project\main.cpp(138): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\cg_project\cg_project\cg_project\main.cpp(272): warning C4101: 'i' : unreferenced local variable
+     1>d:\cg_project\cg_project\cg_project\main.cpp(322): warning C4101: 'i' : unreferenced local variable
+     1>d:\cg_project\cg_project\cg_project\main.cpp(370): warning C4018: '<=' : signed/unsigned mismatch
+     1>d:\cg_project\cg_project\cg_project\main.cpp(375): warning C4101: 'cx' : unreferenced local variable
+     1>d:\cg_project\cg_project\cg_project\main.cpp(375): warning C4101: 'i' : unreferenced local variable
+     1>d:\cg_project\cg_project\cg_project\main.cpp(375): warning C4101: 'cy' : unreferenced local variable
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\cg_project\cg_project\Debug\cg_project.exe" /INCREMENTAL /NOLOGO /LIBPATH:Library\freeglut /LIBPATH:Library\glew /LIBPATH:Library\soil kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib opengl32.lib opengl32.lib freeglut.lib glew32.lib soil.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\cg_project\cg_project\Debug\cg_project.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\cg_project\cg_project\Debug\cg_project.lib" /MACHINE:X86 Debug\main.obj
+         cg_project.vcxproj -> D:\cg_project\cg_project\Debug\cg_project.exe
+     1>Done Building Project "D:\cg_project\cg_project\cg_project\cg_project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.90
